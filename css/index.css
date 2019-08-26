@@ -1,0 +1,306 @@
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.tc{
+	text-align: center;
+}
+.w {
+	
+	margin: 0 auto;
+	width: 1600px;
+	}
+
+.header{
+	
+	background: url(../img/background.png) no-repeat;
+	width: 1600px;
+	height: 990px;
+}
+.text456654{
+	height: 530px;
+	width: 970px;
+	border-bottom: 1px solid gray;
+	margin: auto;
+}
+.text456654 h1{
+	color: white;
+	font-size: 62px;
+	text-align: center;
+	padding-top: 209px;
+	width: 770px;
+	margin: auto;
+	line-height: 45px;
+}
+.text456654 p{
+	
+	font-size: 18px;
+	color: #d1d0ce;
+	text-align: center;
+	margin: 89px 100px 0 100px;
+	
+}
+.signupform{
+	
+	width: 970px;
+	margin: auto;
+}
+.creat{
+	height: 44px;
+	margin-top: 62px;
+	
+}
+.creat p{
+	text-align: center;
+	margin: 0;
+}
+.creat .title{
+	width: 970px;
+	font-size: 16px;
+	color: white;
+	font-family: "arial black";
+}
+.creat .text{
+	font-size: 12px;
+	color: gray;
+	font-weight: 600;
+}
+.input_field{
+	width:870px;
+	margin-top: 44px;
+	padding-left: 100px;
+	border-bottom: 1px solid gray;
+	height: 104px;
+}
+.header input{
+	background: rgba(0,0,0,0);
+	height: 49px;
+	width: 269px;
+	
+	border: 1px solid #555351;
+	border-radius: 5px;
+	font-size: 14px;
+	padding-left: 22px;
+}
+#zhanghao{
+	margin-right: 15px;
+	color: white;
+}
+#mima{
+	margin: 0  30px 0  15px;
+	color: gray;
+}
+button{
+	width: 127px;
+	height: 50px;
+	background: white;
+	border-radius: 5px;
+}
+.feature{
+	height: 623px;
+	
+	padding-top: 87px;
+	}
+.feature .title{
+	text-align: center;
+}
+.feature p{
+	margin: 0;
+	color: black;
+}
+.feature .text1{
+	font-size: 14px;
+	margin-bottom: 28px;
+	font-weight: bold;
+}
+.feature .text2{
+	font-size: 42px;
+}
+.feature ul{
+	margin-left:215px ;
+	margin-top: 81px;
+}
+.feature li{
+	height: 150px;
+	width: 585px;
+	float: left;
+}
+.tupian{
+	float: left;
+	width: 110px;
+	height: 150px;
+	
+}
+.wenzi{
+	float: left;
+	width: 475px;
+	height:150px;
+
+}
+.wenzi img{
+	float: right;
+	margin-right: 10px;
+}
+.wenzi p{
+	text-align: left;
+}
+.wenzi .item{
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.wenzi .description{
+	color: gray;
+}
+.call_to_action{
+	height: 798px;
+	background: url(../img/background2.png);
+}
+.call_to_action h2{
+	padding-top: 184px;
+	margin-left: 315px;
+	font-size: 42px;
+	color: white;
+	margin-bottom: 100px;
+}
+.call_to_action p{
+	font-size: 18px;
+	padding-left: 315px;
+	width: 370px;
+	color: white;
+}
+#check{
+	
+	margin-left: 315px;
+	background: white;
+	width: 240px;
+	height: 60px;
+	margin-top: 58px;
+	margin-right: 30px;
+}
+#check:hover{
+	
+}
+#try{
+	width: 240px;
+	height: 60px;
+	background:rgba(0,0,0,0);
+}
+.crew{
+	height: 1015px;
+}
+.crew h2{
+	padding-top: 100px;
+	margin-bottom: 25px;
+	font-weight: bold;
+	font-size: 42px;
+}
+.crew p{
+	font-size: 18px;
+}
+.crew ul{
+	margin-top: 58px;
+	margin-left: 315px;
+}
+.crew li{
+	float:left;
+	width:  470px;
+	height: 340px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+.crew img:hover{
+	filter: grayscale(50%);
+}
+.contact{
+	margin-top: 50px;
+	overflow: auto;
+}
+.mail{
+	width: 470px;
+	margin-left: 315px;
+}
+.contact_way{
+	width: 470px;
+}
+.contact h3{
+	font-size: 16px;
+	text-align: center;
+}
+.contact li{
+	text-align: center;
+	margin: 15px 0;
+}
+.contact input,
+.contact button{
+	width: 370px ;
+	height: 50px ;
+}
+.contact .message{
+	height: 143px;
+	line-height: 10px;
+}
+.contact button{
+	background: black;
+	color: white;
+	
+}
+.contact_way h3,
+.contact_way p{
+	margin-left: 130px;
+}
+.contact_way h3{
+	text-align: left;
+}
+textarea{
+	overflow:hidden; 
+	resize:none;
+	height: 142px;
+	width: 370px;
+}
+.contact_way ul{
+	margin-top: 50px;
+}
+.contact_way li{
+	
+	margin-left: 130px;
+	text-align: left;
+	height: 50px;
+}
+.contact_way span{
+	display: inline-block;
+	line-height: 20px;
+}
+.contact_way img{
+	float: left;
+	margin-right: 15px;
+}
+.footer{
+	padding-left: 215px;
+	
+	height: 410px;
+	background: black;
+}
+.mod_help_list{
+	float: left;
+	width: 270px;
+	margin-right: 30px;
+	margin-top: 87px;
+}
+.mod_help_list dt{
+	color: white;
+	font-size: 14px;
+}
+.mod_help_list dd{
+	color: gray;
+	font-size: 16px;
+}
+.mod_help_list dt,
+.mod_help_list dd{
+	margin-bottom: 32px;
+}
+.mod_help_list img{
+	margin-right: 25px;
+}
